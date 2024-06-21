@@ -41,6 +41,11 @@ body{
     font-size: 16px;
     font-family: monospace;
   }
+
+  .temp-converter p{
+    font-size: 18px;
+    border: 4px solid #d1d1d1;
+  }
   
   .temp-converter button {
     width: 100%;
