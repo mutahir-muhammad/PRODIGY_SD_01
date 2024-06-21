@@ -1,8 +1,16 @@
-# React + Vite
+# Temperature Converter App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that allows users to convert temperatures between Celsius, Fahrenheit, and Kelvin.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Convert temperatures from one unit to another:
+  - Celsius to Fahrenheit and Kelvin
+  - Fahrenheit to Celsius and Kelvin
+  - Kelvin to Celsius and Fahrenheit
+
+## Technologies Used
+
+- React: A JavaScript library for building user interfaces
+- HTML5: Markup language used for structuring and presenting content on the web
+- CSS3: Style sheet language used for describing the presentation of a document written in HTML
